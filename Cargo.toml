@@ -1,0 +1,12 @@
+[package]
+name = "runo"
+version = "0.1.0"
+authors = ["Saifi Khan <saifi@strikr.in>"]
+
+[dependencies]
+
+
+[lib]
+name = "fibo"
+crate-type = ["dylib"]
+
